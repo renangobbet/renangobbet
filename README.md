@@ -1,4 +1,4 @@
-### Aloha, I'm Renan 🌺
+### Aloha, I'm Renan 
 
 I run **[TradeWindStack](https://www.tradewindstack.com)**, a growth-ops studio on Kauaʻi. I build the layer underneath a small business's marketing: the site, the tracking and the automation, so the ads run on numbers you can trust.
 
